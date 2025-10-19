@@ -1,0 +1,20 @@
+{
+  "test_date": "2025-10-19",
+  "scores": {
+    "grammar": "3/5",
+    "vocabulary": "3/3",
+    "reading": "2/2",
+    "total": "8/10"
+  },
+  "answers": {
+    "user": {
+      "1": "A", "2": "B", "3": "A", "4": "C", "5": "C",
+      "6": "D", "7": "B", "8": "B", "9": "C", "10": "B"
+    },
+    "correct": {
+      "1": "B", "2": "B", "3": "B", "4": "C", "5": "C",
+      "6": "D", "7": "B", "8": "B", "9": "C", "10": "B"
+    }
+  },
+  "analysis": "Good overall score. The main area for improvement is Grammar, specifically Subject-Verb Agreement with complex subjects and correlative conjunctions (neither/nor). Vocabulary and Reading Comprehension are strong starting points."
+}
